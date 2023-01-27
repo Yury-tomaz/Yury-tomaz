@@ -1,4 +1,6 @@
-# Sobre Mim
+# Yury Tomaz
+
+## Sobre mim
 Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. Possuo habilidades avançadas em desenvolvimento de aplicações web utilizando as seguintes tecnologias:
 - JavaScript/TypeScript
 - Node.js
