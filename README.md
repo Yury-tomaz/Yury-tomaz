@@ -1,4 +1,5 @@
 # Sobre Mim
+
 Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. Possuo habilidades avançadas em desenvolvimento de aplicações web utilizando as seguintes tecnologias:
 
 - JavaScript/TypeScript
@@ -15,7 +16,6 @@ Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. 
 Além disso, estou cursando Engenharia de Software. Busco sempre me atualizar e me desenvolver como profissional, aprimorando minhas habilidades e adquirindo novos conhecimentos.
 
 # Projetos
-Aqui estão alguns dos projetos nos quais trabalhei recentemente:
 
 - [Aplicativo de Gerenciamento de Tarefas](https://github.com/yury-tomaz/task-manager-app) - Um aplicativo web desenvolvido utilizando Node.js, Express e MongoDB, que permite aos usuários criar, gerenciar, editar e excluir tarefas de forma simples e intuitiva.
 
