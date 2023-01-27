@@ -1,5 +1,3 @@
-<p> "O aprendizado é contínuo e o </br> <strong>o próximo nível nunca sera o último.</strong>"</p>
-
 Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. Possuo habilidades avançadas em desenvolvimento de aplicações web utilizando as seguintes tecnologias:
 
 - JavaScript/TypeScript
@@ -26,3 +24,5 @@ Além disso, estou cursando Engenharia de Software. Busco sempre me atualizar e 
 - [Aplicativo de Comentários](https://github.com/yury-tomaz/comment-post-app) - Um aplicativo web desenvolvido utilizando Node.js, Express e MongoDB, que permite aos usuários postar comentários em um determinado tópico de forma organizada e simples.
 
 - [API de Webscraping de Preços Agropecuários](https://github.com/yury-tomaz/web-scraping-cepea) - Este projeto consiste em uma API desenvolvida em Node.js utilizando o framework Express, que realiza web scraping em sites especializados para coletar informações de preços agropecuários.
+
+<p> "O aprendizado é contínuo e o </br> <strong>o próximo nível nunca sera o último.</strong>"</p>
