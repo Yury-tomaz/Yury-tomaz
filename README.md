@@ -1,4 +1,4 @@
-<p>O aprendizado é contínuo e o </br> <strong>o próximo nível nunca sera o último.</strong>
+"<p>O aprendizado é contínuo e o </br> <strong>o próximo nível nunca sera o último.</strong>
 
 Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. Possuo habilidades avançadas em desenvolvimento de aplicações web utilizando as seguintes tecnologias:
 
