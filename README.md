@@ -9,6 +9,8 @@ whatsapp: 19992465788
 Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. Possuo habilidades avançadas em desenvolvimento de aplicações web utilizando as seguintes tecnologias:
 
 - JavaScript/TypeScript
+- Python
+- PHP
 - Node.js
 - React.js
 - Next.js
@@ -16,7 +18,7 @@ Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. 
 - CSS
 - MongoDB
 - MySQL
-- Python
+
 - Metodologias ágeis (Scrum, Kanban e Extreme Programming (XP))
 
 Além disso, estou cursando Engenharia de Software. Busco sempre me atualizar e me desenvolver como profissional, aprimorando minhas habilidades e adquirindo novos conhecimentos.
