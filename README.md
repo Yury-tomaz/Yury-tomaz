@@ -1,4 +1,4 @@
-# Yury Tomaz - Dev Full Stack
+# Yury Tomaz - Dev Full Stack, CEO na Vila Dev 
 e-mail: contato@viladev.com</br>
 whatsapp: 19992465788</br>
 www.viladev.com
