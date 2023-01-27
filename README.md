@@ -1,4 +1,10 @@
-# Sobre Mim
+# Yury Tomaz - Dev Full Stack
+##Contato
+e-mail: contato@viladev.com
+whatsapp: 19992465788
+
+
+## Sobre Mim
 
 Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. Possuo habilidades avançadas em desenvolvimento de aplicações web utilizando as seguintes tecnologias:
 
