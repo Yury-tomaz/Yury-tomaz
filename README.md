@@ -27,4 +27,3 @@ Além disso, estou cursando Engenharia de Software. Busco sempre me atualizar e 
 
 - [API de Webscraping de Preços Agropecuários](https://github.com/yury-tomaz/web-scraping-cepea) - Este projeto consiste em uma API desenvolvida em Node.js utilizando o framework Express, que realiza web scraping em sites especializados para coletar informações de preços agropecuários.
 
-<p> "O aprendizado é contínuo e o </br> <strong>o próximo nível nunca sera o último.</strong>"</p>
