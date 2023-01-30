@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQEW5T_MWkQQww/profile-displaybackgroundimage-shrink_350_1400/0/1674045343158?e=1680739200&v=beta&t=3C2eNaRXceSlkPIAojTN4ZF513i8tMr0WWhtr1xP-lc" width="100%">
+
 Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. Possuo habilidades avançadas em desenvolvimento de aplicações web utilizando as seguintes tecnologias:
 
 - JavaScript/TypeScript
