@@ -4,8 +4,6 @@ Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. 
 
 JavaScript/TypeScript, Python, PHP, Node.js, React.js, Next.js, HTML, CSS/SASS, MongoDB, MySQL
 
-- Metodologias ágeis (Scrum, Kanban e Extreme Programming (XP))
-
 Além disso, estou cursando Engenharia de Software. Busco sempre me atualizar e me desenvolver como profissional, aprimorando minhas habilidades e adquirindo novos conhecimentos.
 
 # Projetos
