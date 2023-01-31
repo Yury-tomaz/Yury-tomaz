@@ -2,16 +2,7 @@
 
 Olá, me chamo Yury e sou desenvolvedor web com mais de 3 anos de experiência. Possuo habilidades avançadas em desenvolvimento de aplicações web utilizando as seguintes tecnologias:
 
-- JavaScript/TypeScript
-- Python
-- PHP
-- Node.js
-- React.js
-- Next.js
-- HTML
-- CSS
-- MongoDB
-- MySQL
+JavaScript/TypeScript, Python, PHP, Node.js, React.js, Next.js, HTML, CSS/SASS, MongoDB, MySQL
 
 - Metodologias ágeis (Scrum, Kanban e Extreme Programming (XP))
 
