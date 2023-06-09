@@ -1,18 +1,12 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQEW5T_MWkQQww/profile-displaybackgroundimage-shrink_350_1400/0/1674045343158?e=1680739200&v=beta&t=3C2eNaRXceSlkPIAojTN4ZF513i8tMr0WWhtr1xP-lc" width="100%">
+Desenvolvedor web Full Stack dedicado em aprimorar minhas habilidades em engenharia de software, experiente e apaixonado por padrões de projetos.
 
-Olá e bem vindo ao meu perfil! Sou um programador web altamente qualificado com experiência em Java, JavaScript/TypeScript, Python, React e Node.js. Eu me especializei no desenvolvimento de aplicativos da Web de alta qualidade, escaláveis ​​e seguros para empresas de todos os tamanhos.
+Especializado em identificar e aplicar soluções eficientes para problemas comuns de design em sistemas de software. Com amplo conhecimento dos padrões de criação, estruturais e comportamentais.
 
-Com mais de 5 anos de experiência no setor, tive a oportunidade de trabalhar em uma ampla gama de projetos, desde pequenos aplicativos da Web até sistemas complexos de nível empresarial. Minhas habilidades técnicas são complementadas por fortes habilidades de resolução de problemas, excelentes habilidades de comunicação e uma paixão por fornecer resultados excepcionais.
+Atuando no mercado deis de 2019 e adquirindo conhecimento deis de 2014, proficiente em linguagens de programação como Java, Python e Javascript.
 
-Aqui estão alguns dos serviços que ofereço:
+Experiência em desenvolvimento ágil utilizando a metodologia Extreme Programming (XP).
+Solido conhecimento dos princípios de Test-Driven Development (TDD). Além disso, estou familiarizado com os conceitos de Arquitetura Limpa (Clean Architecture). Também possuo conhecimento em diversos SGBDs, incluindo MySQL MongoDB e Neo4j.
 
-- Desenvolvimento web full-stack
-- Desenvolvimento de aplicações web personalizadas
-- Desenvolvimento e integração de APIs
-- Projeto e desenvolvimento de banco de dados
-- Otimização de performance
-- Revisão e otimização de código
-- Consultoria técnica
-Meu objetivo é ajudar as empresas a atingir seus objetivos digitais, fornecendo serviços de desenvolvimento de alto nível e conhecimento técnico. Estou empenhado em entregar um trabalho de alta qualidade dentro do prazo e do orçamento, e estou sempre procurando novos e empolgantes projetos para trabalhar.
+OBJETIVO:
 
-Se você está procurando um programador web qualificado e confiável, não procure mais! Por favor, não hesite em entrar em contato comigo para discutir os requisitos do seu projeto. Estou ansioso para ouvir de você.
+Atuar como engenheiro de software, onde posso aplicar minha paixão pela tecnologia e minha habilidade em resolver problemas complexos.
