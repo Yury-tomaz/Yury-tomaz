@@ -1,4 +1,5 @@
 Desenvolvedor web Full Stack dedicado em aprimorar minhas habilidades em engenharia de software, experiente e apaixonado pelos desafios de se construir software de alta qualidade.
+Atuando no mercado desde 2019 e adquirindo conhecimento desde 2014, proficiente em linguagens de programação como Java, Python e Javascript.
 
 ## Principais habilidades:
 - Projeto e arquitetura de software
