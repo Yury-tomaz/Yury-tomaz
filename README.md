@@ -1,4 +1,4 @@
-Desenvolvedor web Full Stack dedicado em aprimorar minhas habilidades em engenharia de software, experiente e apaixonado pelos desafios de se construir um software de alta qualidade.
+Desenvolvedor web Full Stack dedicado em aprimorar minhas habilidades em engenharia de software, experiente e apaixonado pelos desafios de se construir software de alta qualidade.
 
 ## Principais habilidades:
 - Projeto e arquitetura de software
