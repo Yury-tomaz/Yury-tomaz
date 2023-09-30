@@ -28,4 +28,4 @@ Atuando no mercado desde 2019 e adquirindo conhecimento desde 2014, proficiente 
 Além disso, tenho experiência prática em integração e entrega contínua (CI/CD), utilizando Jenkins e Github Actions.
 
 ## Objetivo:
-Busco atuar como engenheiro de software com foco no planejamento e ciclo de vida de projetos, contribuindo na definição de requisitos, no desenvolvimento de estratégias de arquitetura e na criação de um plano abrangente para o sucesso do projeto.
+Busco uma oportunidade que me permita atuar além do desenvolvimento, auxiliando a equipe de arquitetura ou engenharia no planejamento e ciclo de vida de projetos, contribuindo na definição de requisitos, no desenvolvimento de estratégias de arquitetura e na criação de um plano abrangente para o sucesso do projeto.
