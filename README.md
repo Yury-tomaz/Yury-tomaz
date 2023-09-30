@@ -2,8 +2,11 @@ Desenvolvedor web Full Stack dedicado em aprimorar minhas habilidades em engenha
 Atuando no mercado desde 2019 e adquirindo conhecimento desde 2014, proficiente em linguagens de programação como Java, Python e Javascript.
 
 ## Principais habilidades:
-- Projeto e arquitetura de software, incluindo arquitetura limpa e hexagonal
-- Análise e requisitos de negócio
+- Arquitetura de software,
+  - Monolítica
+  - Camadas
+  - Microserviços
+- Análise e requisitos de software
 - Gestão do ciclo de vida do software
 - Padrões de codificação e boas práticas
 - Resolução de problemas complexos
