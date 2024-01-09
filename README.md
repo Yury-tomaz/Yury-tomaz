@@ -1,2 +1,2 @@
-Desenvolvedor back-end pleno dedicado a aprimorar minhas habilidades em engenharia de software, experiente e apaixonado pelos desafios de construir software de alta qualidade. 
+Desenvolvedor back-end dedicado a aprimorar minhas habilidades em engenharia de software, experiente e apaixonado pelos desafios de construir software de alta qualidade. 
 Atuo no mercado desde 2019 e venho adquirindo conhecimento desde 2014. Sou especializado em Node.js e tenho experiência sólida nessa tecnologia, além de ser eficiente em outras linguagens de programação como o Python e Java com Spring Boot.
