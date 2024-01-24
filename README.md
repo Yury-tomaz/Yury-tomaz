@@ -1,2 +1,22 @@
-Desenvolvedor back-end dedicado a aprimorar minhas habilidades em engenharia de software, experiente e apaixonado pelos desafios de construir software de alta qualidade. 
-Atuo no mercado desde 2019 e venho adquirindo conhecimento desde 2014. Sou especializado em Node.js e tenho experiência sólida nessa tecnologia, além de ser eficiente em outras linguagens de programação como o Python e Java com Spring Boot.
+Desenvolvedor back-end dedicado a aprimorar minhas habilidades em engenharia de software, experiente e apaixonado pelos desafios de construir software de alta qualidade. Atuo no mercado desde 2019 e venho adquirindo conhecimento desde 2014. Especializado em Node.JS/TypeScript, Python. Expert em APIs, arquiteturas monolíticas e microsserviços.
+
+### TECNOLOGIAS:
+Node.js | Express | Nest.js | Javascript | Typescript | Postgresql | MySQL | MongoDB
+Kubernetes | Docker | RabbitMQ | Kong Gateway | Python | Flask | Django
+
+### HÁBILIDADES:
+- Desenvolvimento de APIs RESTful e GraphQL.
+- Arquitetura monolítica, camadas e microsserviços.
+- Noções de arquitetura do lado do cliente (Client-Side Architecture).
+- Padrões de codificação e boas práticas: DDD, TDD, SOLID, Clean Code, Clean architecture, Design Patterns
+- Testes e qualidade de software: Unidade, end-to-end (E2E). integração, 
+- Cultura DevOps
+
+### EXPERIÊNCIA PRATICA:
+- Metodologias Ágeis: XP, Scrum.
+- Integração e Entrega Contínua (CI/CD): Jenkins, Github Actions.
+- Orquestração e Contêineres: Kubernetes, Docker.
+- Sistemas de Mensageria: RabbitMQ.
+- Computação em Nuvem: AWS (EC2, S3, API Gateway, AWS Lambda).
+- Desenvolvimento de Interfaces de Usuário: Responsivas e Intuitivas com react.js e next.js.
+- Gerenciamento de Pequenas Equipes e Projetos.
