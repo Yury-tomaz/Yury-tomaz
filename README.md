@@ -1,8 +1,8 @@
-Desenvolvedor back-end dedicado a aprimorar minhas habilidades em engenharia de software, experiente e apaixonado pelos desafios de construir software de alta qualidade. Atuo no mercado desde 2019 e venho adquirindo conhecimento desde 2014. Especializado em Node.JS/TypeScript, Python. Expert em APIs, arquiteturas monolíticas e microsserviços.
+Desenvolvedor back-end dedicado a aprimorar minhas habilidades em engenharia de software, experiente e apaixonado pelos desafios de construir software de alta qualidade. Atuo no mercado desde 2019 e venho adquirindo conhecimento desde 2014. Especializado em Node.JS/TypeScript. Expert em APIs, arquiteturas monolíticas e microsserviços.
 
 ### TECNOLOGIAS:
 Node.js | Express | Nest.js | Javascript | Typescript | Postgresql | MySQL | MongoDB
-Kubernetes | Docker | RabbitMQ | Kong Gateway | Python | Flask | Django
+Kubernetes | Docker | RabbitMQ | Kong Gateway
 
 ### HÁBILIDADES:
 - Desenvolvimento de APIs RESTful e GraphQL.
