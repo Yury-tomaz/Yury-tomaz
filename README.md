@@ -1,7 +1,7 @@
 Desenvolvedor Full Stack dedicado a aprimorar minhas habilidades em engenharia de software, experiente e apaixonado pelos desafios de construir software de alta qualidade. Atuo no mercado desde 2019 e venho adquirindo conhecimento desde 2014. Especializado em Node.JS/TypeScript. Expert em APIs, arquiteturas monolíticas e microsserviços.
 
 ### TECNOLOGIAS:
-Node.js | Express | Nest.js | Javascript | Typescript | Postgresql | MySQL | MongoDB
+Node.js | Express | Nest.js | Javascript | Typescript | React.js | Next.js | Postgresql | MySQL | MongoDB
 Kubernetes | Docker | RabbitMQ | Kong Gateway
 
 ### HÁBILIDADES:
